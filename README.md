@@ -1,1 +1,2 @@
-# Lumos-Landing-Page
+# Lumos-Landing-Page-Challenge
+
